@@ -3,10 +3,20 @@
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+body {
+    margin: 0;
+}
 .mid-mid {
     display: flex;
     justify-content: center;
     height: 100%;
     align-items: center;
+}
+
+.teners-cloudy-sky {
+    height: 231px;
+    display: flex;
+    background-image: url(https://media.discordapp.net/attachments/889825376551976980/946922831235665930/cloud_banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
