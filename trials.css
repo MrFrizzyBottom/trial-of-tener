@@ -9,7 +9,7 @@ body {
     height: 100vh;
     align-items: center;
     margin: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .teners-cloudy-sky {
@@ -18,3 +18,10 @@ body {
     background-image: url(https://media.discordapp.net/attachments/889825376551976980/946922831235665930/cloud_banner.jpg);
     background-position: center;
 }
+
+@media only screen and (min-width: 3441px){
+    .teners-cloudy-sky {
+    width: 100%;
+    height: auto;
+    }
+    }
