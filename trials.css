@@ -21,7 +21,7 @@ body {
 
 @media only screen and (min-width: 3441px){
     .teners-cloudy-sky {
-    width: 100%;
-    height: auto;
+        background-size: cover;
+        background-position: top;
     }
     }
